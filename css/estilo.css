@@ -1,0 +1,42 @@
+#textoImagina{
+    margin-top: 20px;
+}
+
+.card{
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+#espacio{
+    width: 100%;
+    height: 20px;
+}
+
+#redesSociales{
+    background-color: #F25252;
+    width: 100%;
+    height: 50px;
+}
+
+#github{
+    margin-top: 10px;
+}
+#github:hover{
+    background-color: #F6C270;
+    border-radius: 100%;
+}
+
+#separacionRedesSociales{
+    background-color: #FAE2E2;
+    width: 100%;
+    height: 5px;
+}
+#finalDePagina{
+    background-color: #F25252;
+    width: 100%;
+    height: 100px;
+}
+#final{
+    margin-top: 10px;
+    color: #FFFFFF;
+}
